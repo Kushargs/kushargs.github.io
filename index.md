@@ -5,7 +5,7 @@ title: Home
 
 # Kushagra Garg
 
-Researcher in quantum algorithms. Exploring quantum information, computational complexity, and machine learning applications in quantum systems. Currently pursuing research at the intersection of quantum computation and optimization.
+Researcher in quantum algorithms. Currently at Fujitsu Research Quantum Lab, working on Lindbladian simulation algorithms and quantum resource estimation. Pursuing M.S. in Computational Natural Science at IIIT Hyderabad, focusing on quantum computation, error correction, and variational algorithms.
 
 ## Links
 
