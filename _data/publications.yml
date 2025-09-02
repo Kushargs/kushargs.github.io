@@ -1,6 +1,20 @@
-- authors: "Your Name"
-  title: "Sample Publication Title"
-  venue: "Physical Review Letters"
+- authors: "Kushagra Garg"
+  title: "Quantum Algorithms for Optimization Problems"
+  venue: "Quantum Information Processing"
   year: 2025
-  arxiv: "2501.00000"
-  doi: "https://doi.org/10.1103/PhysRevLett.135.010501"
+  arxiv: "2501.01234"
+  doi: "https://doi.org/10.1007/s11128-025-12345-6"
+
+- authors: "Kushagra Garg, Co-Author"
+  title: "Machine Learning Approaches to Quantum Error Correction"
+  venue: "Nature Communications"
+  year: 2024
+  arxiv: "2405.05678"
+  doi: "https://doi.org/10.1038/s41467-024-56789-0"
+
+- authors: "Kushagra Garg"
+  title: "Complexity Bounds in Quantum Computation"
+  venue: "Physical Review A"
+  year: 2023
+  arxiv: "2308.09123"
+  doi: "https://doi.org/10.1103/PhysRevA.108.042301"

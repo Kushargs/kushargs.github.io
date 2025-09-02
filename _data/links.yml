@@ -1,2 +1,11 @@
-- title: "Sample Link"
-  url: "https://example.com"
+- title: "Quantum Computing Resources"
+  url: "https://quantum-computing.ibm.com/"
+
+- title: "arXiv Quantum Physics"
+  url: "https://arxiv.org/list/quant-ph/recent"
+
+- title: "Qiskit Documentation"
+  url: "https://qiskit.org/documentation/"
+
+- title: "Research Blog on Quantum Algorithms"
+  url: "https://quantumalgorithmzoo.org/"

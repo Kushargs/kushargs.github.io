@@ -3,15 +3,15 @@ layout: default
 title: Home
 ---
 
-# Your Name
+# Kushagra Garg
 
-Researcher in quantum algorithms. PhD student exploring quantum information, complexity, and machine learning applications.
+Researcher in quantum algorithms. Exploring quantum information, computational complexity, and machine learning applications in quantum systems. Currently pursuing research at the intersection of quantum computation and optimization.
 
 ## Links
 
-- [GitHub](https://github.com/yourusername)
-- [CV](/cv/yourname_cv.pdf)
-- [Email](mailto:you@example.com)
+- [GitHub](https://github.com/kushargs)
+- [CV](/cv/kushagra_cv.pdf)
+- [Email](mailto:kushargsg@gmail.com)
 - [Google Scholar](https://scholar.google.com/citations?user=yourid)
 
 ## Publications
