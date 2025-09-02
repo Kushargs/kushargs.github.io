@@ -1,0 +1,35 @@
+# Site settings
+title: "Your Name"
+description: "Researcher in quantum algorithms"
+url: "https://yourusername.github.io"
+baseurl: ""
+author: "Your Name"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+# Collections
+collections:
+  notes:
+    output: true
+    permalink: /notes/:name/
+
+# Permalinks
+permalink: /blog/:year/:month/:day/:title/
+
+# Custom variables
+github_username: yourusername
+scholar_link: "https://scholar.google.com/citations?user=yourid"
+email: "you@example.com"
