@@ -1,9 +1,9 @@
 # Site settings
-title: "Your Name"
+title: "Kushagra Garg"
 description: "Researcher in quantum algorithms"
-url: "https://yourusername.github.io"
+url: "https://kushargs.github.io"
 baseurl: ""
-author: "Your Name"
+author: "Kushagra Garg"
 
 # Build settings
 markdown: kramdown
@@ -19,6 +19,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/
+  
 
 # Collections
 collections:
@@ -30,6 +31,6 @@ collections:
 permalink: /blog/:year/:month/:day/:title/
 
 # Custom variables
-github_username: yourusername
+github_username: kushargs
 scholar_link: "https://scholar.google.com/citations?user=yourid"
-email: "you@example.com"
+email: "kushargsg@gmail.com"
