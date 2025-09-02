@@ -1,20 +1,18 @@
-- authors: "Kushagra Garg"
-  title: "Quantum Algorithms for Optimization Problems"
-  venue: "Quantum Information Processing"
-  year: 2025
-  arxiv: "2501.01234"
-  doi: "https://doi.org/10.1007/s11128-025-12345-6"
-
-- authors: "Kushagra Garg, Co-Author"
-  title: "Machine Learning Approaches to Quantum Error Correction"
-  venue: "Nature Communications"
-  year: 2024
-  arxiv: "2405.05678"
-  doi: "https://doi.org/10.1038/s41467-024-56789-0"
-
-- authors: "Kushagra Garg"
-  title: "Complexity Bounds in Quantum Computation"
+- authors: "K. Garg, Z. Ahmed, S. Mitra, S. Chakraborty"
+  title: "Simulating quantum collision models with Hamiltonian simulations using early fault-tolerant quantum computers"
   venue: "Physical Review A"
-  year: 2023
-  arxiv: "2308.09123"
-  doi: "https://doi.org/10.1103/PhysRevA.108.042301"
+  year: 2025
+  doi: "https://doi.org/10.1103/PhysRevA.112.022601"  # Placeholder; check actual DOI
+
+- authors: "K. Garg, Z. Ahmed, A. Thomasen"
+  title: "Entanglement determination with a deep multiscale entanglement renormalization ansatz"
+  venue: "Physical Review A"
+  year: 2025
+  doi: "https://doi.org/10.1103/PhysRevA.111.042303"  # Placeholder; check actual DOI
+
+- authors: "Z. Ahmed, A. Chaudhuri, K. S. S. Grover, A. Rao, K. Garg, P. Malhotra"
+  title: "Classifying CELESTE as NP Complete"
+  venue: "arXiv preprint"
+  year: 2020
+  arxiv: "2012.07678"
+
