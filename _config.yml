@@ -8,9 +8,7 @@ author: "Kushagra Garg"
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 
@@ -27,10 +25,9 @@ collections:
     output: true
     permalink: /notes/:name/
 
-# Permalinks
-permalink: /blog/:year/:month/:day/:title/
+
 
 # Custom variables
 github_username: kushargs
-scholar_link: "https://scholar.google.com/citations?user=yourid"
+scholar_link: "https://scholar.google.com/citations?user=mJAX4mMAAAAJ&hl=en"
 email: "kushargsg@gmail.com"
