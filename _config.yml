@@ -19,11 +19,7 @@ exclude:
   - vendor/
   
 
-# Collections
-collections:
-  notes:
-    output: true
-    permalink: /notes/:name/
+# Collections (removed notes collection)
 
 
 
