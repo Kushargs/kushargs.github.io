@@ -3,8 +3,11 @@ layout: default
 title: Home
 ---
 
-Researcher in quantum algorithms. Currently at Fujitsu Research Quantum Lab, working on Lindbladian simulation algorithms and quantum resource estimation. Pursuing M.S. in Computational Natural Science at IIIT Hyderabad, focusing on quantum computation, error correction, and variational algorithms.
+Hi there! I'm a Research Scientist at [Fujitsu Research](https://global.fujitsu/en-apac/local/technology/research), where I focus on developing quantum algorithms for efficiently simulating open quantum systems.
 
+Before this, I was fortunate to spend time at Microsoft Research, where I worked with [Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/) on applying cryptography to enable secure inference for large language models.
+
+I completed my Master’s at IIIT Hyderabad, where I explored quantum algorithms for intermediate-term quantum devices, advised by [Shantanav Chakraborty](https://sites.google.com/view/shchakra) and [Subhadip Mitra](https://sites.google.com/site/subhadipmitra/).
 ## Publications
 
 {% for pub in site.data.publications %}
