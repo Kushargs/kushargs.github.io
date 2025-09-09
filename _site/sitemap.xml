@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://kushargs.github.io/</loc>
+<loc>http://0.0.0.0:4001/</loc>
 </url>
 <url>
-<loc>https://kushargs.github.io/cv/kushagra_cv.pdf</loc>
+<loc>http://0.0.0.0:4001/cv/kushagra_cv.pdf</loc>
 <lastmod>2025-09-08T22:12:47+05:30</lastmod>
 </url>
 </urlset>
