@@ -2,13 +2,13 @@
   title: "Simulating quantum collision models with Hamiltonian simulations using early fault-tolerant quantum computers"
   venue: "Physical Review A"
   year: 2025
-  doi: "https://doi.org/10.1103/PhysRevA.112.022601"  # Placeholder; check actual DOI
+  doi: "https://doi.org/10.1103/3trk-smbh"  # Placeholder; check actual DOI
 
 - authors: "K. Garg, Z. Ahmed, A. Thomasen"
   title: "Entanglement determination with a deep multiscale entanglement renormalization ansatz"
   venue: "Physical Review A"
   year: 2025
-  doi: "https://doi.org/10.1103/PhysRevA.111.042303"  # Placeholder; check actual DOI
+  doi: "https://doi.org/10.1103/PhysRevA.111.042411"  # Placeholder; check actual DOI
 
 - authors: "Z. Ahmed, A. Chaudhuri, K. S. S. Grover, A. Rao, K. Garg, P. Malhotra"
   title: "Classifying CELESTE as NP Complete"
