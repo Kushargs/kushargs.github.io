@@ -1,8 +1,8 @@
-# Site settings
+# Site settings for researchweb.iiit.ac.in
 title: "Kushagra Garg"
 description: "Researcher in quantum algorithms"
-url: "https://kushargs.github.io"
-baseurl: ""
+url: "https://researchweb.iiit.ac.in"
+baseurl: "/~kushagra.garg"
 author: "Kushagra Garg"
 
 # Build settings
