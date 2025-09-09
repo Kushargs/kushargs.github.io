@@ -1,0 +1,29 @@
+# Site settings for GitHub Pages
+title: "Kushagra Garg"
+description: "Researcher in quantum algorithms"
+url: "https://kushargs.github.io"
+baseurl: ""  # No baseurl for GitHub Pages
+author: "Kushagra Garg"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  
+
+# Collections (removed notes collection)
+
+
+
+# Custom variables
+github_username: kushargs
+scholar_link: "https://scholar.google.com/citations?user=mJAX4mMAAAAJ&hl=en"
+email: "kushargsg@gmail.com"
