@@ -7,7 +7,7 @@ Hi there! I'm a Research Scientist at [Fujitsu Research](https://global.fujitsu/
 
 Before this, I was fortunate to spend time at Microsoft Research, where I worked with [Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/) on applying cryptography to enable secure inference for Large Language Models.
 
-I completed my Master's at IIIT Hyderabad, where I explored quantum algorithms for intermediate-term quantum devices, advised by [Shantanav Chakraborty](https://sites.google.com/view/shchakra) and [Subhadip Mitra](https://sites.google.com/site/subhadipmitra/).
+I completed my Master's at IIIT Hyderabad, where I explored quantum algorithms for intermediate-term quantum devices, advised by [Shantanav Chakraborty](https://sites.google.com/view/shchakra) and [Subhadip Mitra](https://sites.google.com/site/subhadipmitra/). You can read my thesis [here](/assets/Thesis.pdf).
 
 ## Publications
 
