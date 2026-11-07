@@ -1,6 +1,6 @@
 # Site settings
 title: "Kushagra Garg"
-description: "Researcher in quantum algorithms"
+description: "PhD student in Computer Science at the University of Toronto, working on quantum algorithms and open quantum systems."
 url: "https://kushargs.github.io"
 baseurl: ""
 author: "Kushagra Garg"
@@ -17,6 +17,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/
+  - README.md
   
 
 # Collections (removed notes collection)
